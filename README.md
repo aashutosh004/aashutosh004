@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning, Deep Learning and GEN AI<br>🌱 I’m currently learning Generative AI and frameworks like Django and Flask<br>💬 Ask me about ML, DL and GEN AI
+🔭 I’m currently working on Machine Learning, Deep Learning and GEN AI<br>🌱 I’m currently learning Generative AI and frameworks like Django and Flask<br>💬 Ask me about ML, DL and GEN AI<br>⚡ Loves to sing...hehe :)
 
 
 ## 🌐 Socials:
